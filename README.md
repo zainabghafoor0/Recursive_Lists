@@ -2,7 +2,7 @@
 
 **Name:** Zainab Ghafoor  
 **ID:** 008259427  
-**GitHub repository link:** [[https://github.com/zainabghafoor0/maze_solver.git](https://github.com/zainabghafoor0/Recursive_Lists.git)]
+**GitHub repository link:** [[https://github.com/zainabghafoor0/Recursive_Lists.git](https://github.com/zainabghafoor0/Recursive_Lists.git)]
 
 ---
 
