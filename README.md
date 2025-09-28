@@ -24,7 +24,7 @@ g++ -std=c++17 -Wall -Wextra -O2 \
   .\recursive_lists_test
 
 
-**Sample output while using main_test.cpp:**
+Sample output while using main_test.cpp:
 ----------------------------------------
 Choose:
  1) is_lat (list)
