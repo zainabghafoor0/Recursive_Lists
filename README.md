@@ -22,3 +22,25 @@ g++ -std=c++17 -Wall -Wextra -O2 \
   main_test.cpp reclists.cpp parser.cpp lex.cpp solutions.cpp \
   -o recursive_lists_test \
   .\recursive_lists_test
+
+
+**Sample output while using main_test.cpp:**
+----------------------------------------
+Choose:
+ 1) is_lat (list)
+ 2) member (atom, list)
+ 3) last (list)
+ 4) list_pair (list, list)
+ 5) firsts (list)
+ 6) flat (list)
+ 7) two_the_same (list, list)
+ 8) equal (list, list)
+ 9) total_reverse (list)
+10) shape (list)
+11) intersection (list, list)
+12) union (list, list)
+13) substitute (old_atom, new_atom, list)
+14) remove_all (list_of_atoms, atom)
+15) subset (list, list)
+16) permute (list_of_atoms)
+ 0) quit
