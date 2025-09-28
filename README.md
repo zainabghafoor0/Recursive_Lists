@@ -8,7 +8,7 @@ Lists are read in S-expression form using the provided ADT; atoms are 1–8 lett
 Implemented capabilities include flattening, deep reversal, structural equality, set operations, substitution, subset checks, and (extra credit) permutations—each composed solely from the ADT primitives and `if/else`.
 
 ## Collaboration & Sources 
-- **Work:** All functions in `solutions.cpp/.hpp` written and tested by me; no external code or libraries used.
+- **Work:** All functions in `solutions.cpp/.hpp` written and tested.
 
 ## Implementation Details
 **Build**
