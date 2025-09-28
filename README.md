@@ -11,7 +11,7 @@ Implemented capabilities include flattening, deep reversal, structural equality,
 - **Work:** All functions in `solutions.cpp/.hpp` written and tested.
 
 ## Implementation Details
-**Build**
+**How to Run**
 ```bash
 g++ -std=c++17 -Wall -Wextra -O2 \
   main.cpp reclists.cpp parser.cpp lex.cpp solutions.cpp \
