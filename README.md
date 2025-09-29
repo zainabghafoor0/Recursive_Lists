@@ -17,14 +17,16 @@ g++ -std=c++17 -Wall -Wextra -O2 \
   main.cpp reclists.cpp parser.cpp lex.cpp solutions.cpp \
   -o recursive_lists\
  .\recursive_lists
+````
 # I updated the main_test.cpp file, where I test all the functions. To run it, use the below command.
+```bash
 g++ -std=c++17 -Wall -Wextra -O2 \
   main_test.cpp reclists.cpp parser.cpp lex.cpp solutions.cpp \
   -o recursive_lists_test \
   .\recursive_lists_test
 
-
-Sample output while using main_test.cpp:
+````
+# Sample output while using main_test.cpp:
 ----------------------------------------
 Choose:
  1) is_lat (list)
