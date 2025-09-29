@@ -17,7 +17,7 @@ g++ -std=c++17 -Wall -Wextra -O2 main.cpp reclists.cpp parser.cpp lex.cpp soluti
 ````
   Then 
 ```bash
- .\recursive_list
+ ./recursive_list
 ````
 I updated the main_test.cpp file, where I test all the functions. To run it, use the below command.
 ```bash
