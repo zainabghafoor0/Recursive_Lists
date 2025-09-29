@@ -25,7 +25,10 @@ I updated the main_test.cpp file, where I test all the functions. To run it, use
 ```bash
 g++ -std=c++17 -Wall -Wextra -O2 \
   main_test.cpp reclists.cpp parser.cpp lex.cpp solutions.cpp \
-  -o recursive_lists_test \
+  -o recursive_lists_test
+````
+then
+```bash
   .\recursive_lists_test
 
 ````
