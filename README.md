@@ -15,7 +15,10 @@ Implemented capabilities include flattening, deep reversal, structural equality,
 ```bash
 g++ -std=c++17 -Wall -Wextra -O2 \
   main.cpp reclists.cpp parser.cpp lex.cpp solutions.cpp \
-  -o recursive_lists\
+  -o recursive_lists
+````
+  Then 
+```bash
  .\recursive_lists
 ````
 I updated the main_test.cpp file, where I test all the functions. To run it, use the below command.
